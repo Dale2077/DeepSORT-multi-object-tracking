@@ -49,6 +49,11 @@ videos/
 outputs/
 data/
 
+# Demo/Test outputs
+demo_output.avi
+output.avi
+webcam_output.avi
+
 # OS
 .DS_Store
 Thumbs.db
