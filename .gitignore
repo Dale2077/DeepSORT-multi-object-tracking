@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Data
+*.mp4
+*.avi
+*.mov
+*.mkv
+videos/
+outputs/
+data/
+
+# Demo/Test outputs
+demo_output.avi
+output.avi
+webcam_output.avi
+
+# OS
+.DS_Store
+Thumbs.db
